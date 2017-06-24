@@ -254,7 +254,7 @@ function create_config( )
     "re",
     "rode",
     "speed",
-    
+    "myinfo",    
 
     },
     sudo_users = {189039418},--Sudo users
